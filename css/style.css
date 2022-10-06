@@ -343,7 +343,7 @@ nav.open .links {
 
 .header-title {
   font-size: 3rem;
-  line-height: 0.2;
+  line-height: 1;
   color: var(--dark-one);
 }
 
